@@ -1,6 +1,22 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Jay的个人博客",
+    "subTitle":"哪有什么蒲公英的约定，明明一吹就散！",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/155229316?v=4",
+    "GMEEK_VERSION":"last",
+    "homeUrl":"https://jaychou2035.github.io/",
+    "email":"3246197489@qq.com",
+    "startSite":"07/06/2024",
+    "filingNum":"呜呜呜，暂时没有备案",
+    "onePageListNum":15,
+    "singlePage":["about"],
+    "iconList":{"circle":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "style":"",
+    "script":""
 }
