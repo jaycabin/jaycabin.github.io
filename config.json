@@ -15,9 +15,9 @@
     "i18n":"CN",
     "UTC":8,
     "dayTheme":"light",
+    "bottomText":"转载请注明出处",
     "nightTheme":"dark_colorblind",
     "urlMode":"pinyin",
     "style":"",
     "script":""
-    "needComment":1,
 }
