@@ -19,4 +19,6 @@
     "urlMode":"pinyin",
     "style":"",
     "script":""
+    "needComment":1,
+    "bottomText":"转载请注明出处"
 }
