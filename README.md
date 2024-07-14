@@ -1,4 +1,4 @@
-# Jay的个人博客 :link: https://jaychou2035.github.io/ 
+# Jay的个人博客 :link: https://jaycabin.github.io/ 
 ### :page_facing_up: [6](https://jaychou2035.github.io//tag.html) 
 ### :speech_balloon: 3 
 ### :hibiscus: 1325 
